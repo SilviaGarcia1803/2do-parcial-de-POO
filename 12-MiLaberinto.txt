@@ -1,0 +1,61 @@
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+I   N     N       N     N     N     N   N   N       N       N
+N N N NNN N NNNNNNN NNN N N NNN NNNNN NNN N N NNNNN N N NNN N
+N N N   N N N     N N N N N   N         N N   N     N N N N N
+N NNN NNN N N N N N N N N N N N NNNNNNN NNNNNNN NNNNNNN N N N
+N     N   N   N N     N N N N N N N   N       N     N   N N N
+NNNNNNN NNNNNNN NNNNNNN NNN N N N N N NNNNN NNNNNNN N NNN N N
+N     N N   N   N     N     N N N   N   N         N N   N   N
+N NNN N N NNN NNN NNNNNNNNN NNN NNNNNNN N NNNNNNN N NNN N NNN
+N N   N N N   N N         N   N       N N   N N   N     N   N
+N N NNN N N NNN NNN NNNNN NNN NNNNNNN N NNN N N NNNNNNNNN N N
+N N   N N     N   N N   N N     N   N     N N N         N N N
+N NNN N N NNNNN N N N NNN NNNNN N NNNNNNN N N NNNNNNN N NNN N
+N   N N   N     N N     N N     N     N   N   N       N     N
+N NNN NNNNN NNNNNNNNNNN N N N NNNNNNN N NNNNNNN NNNNNNNNN N N
+N N   N   N N     N   N N   N     N     N N   N N     N   N N
+N N NNN NNN N NNN NNN N NNNNNNNNN N NNNNN N N N N NNN N NNNNN
+N N   N     N   N     N N   N   N N   N     N   N N   N     N
+NNNNN NNNNN NNN N NNNNN N N N N N NNN N N NNNNNNN N NNN NNN N
+N   N N   N     N   N N N N N N N     N N   N   N N N   N   N
+N NNN N N NNNNN NNN N N N N N N NNNNNNN NNN N N NNN N NNN NNN
+N     N N N   N   N     N N N N N         N   N   N   N   N N
+N NNNNNNN N N N NNN NNNNNNN NNN N NNNNNNN NNNNNNN NNN N NNN N
+N N     N N N   N   N   N       N N     N N   N   N   N N   N
+N N NNN N N NNNNN NNN N N NNNNNNNNN NNN N N N N NNN NNN N N N
+N     N   N     N     N   N   N       N N N N N N N N N N N N
+N NNN NNNNNNN N NNNNN NNNNN N N NNNNNNN N N N N N N N N NNN N
+N N N         N N   N   N N N N     N   N N N N   N   N     N
+N N NNNNNNNNNNN N N NNN N N N NNNNNNN NNN NNN N NNNNNNNNN NNN
+N   N     N   N N N       N N N       N       N         N   N
+N NNN NNNNN NNN N NNNNNNNNN N N NNNNNNN NNNNNNN NNNNNNNNNNN N
+N N N   N   N   N           N N   N     N         N   N     N
+N N N N N NNN NNNNNNNNNNNNNNNNNNN N NNNNN NNNNN N N N N NNNNN
+N N   N   N   N       N   N   N   N   N   N   N N   N N N   N
+N NNNNN NNN NNN NNNNN N N N N N NNNNN N NNNNN N NNNNNNN N N N
+N     N N   N   N   N   N N N N N   N N       N N     N N N N
+NNN N N N NNN NNNNN NNNNN N NNN N N N N NNNNNNN N NNN N N NNN
+N N N N N     N   N     N N   N   N   N N       N   N   N   N
+N N NNN NNNNN N N NNNNN N NNN NNNNNNNNN NNNNNNNNNNN NNNNNNN N
+N N     N   N N N N     N   N N           N   N N   N   N   N
+N NNN NNN N N N N N N NNNNN N NNNNNNNNNNN N N N N N N NNN NNN
+N   N N N N   N N N N       N     N       N N N N N   N     N
+N NNN N N NNNNN N NNNNNNNNNNNNNNN N NNN N N N N N NNNNN NNNNN
+N     N N N N   N       N   N     N N N N N N N       N N   N
+NNNNNNN N N N NNNNNNNNN N N N NNNNN N N NNN N NNNNN N N N N N
+N       N N N         N   N     N   N   N   N N   N N N N N N
+N NNNNN N N NNN NNNNN NNNNNNNNN N NNNNNNN NNN N N N N N N N N
+N     N N N   N N   N N       N   N N   N N   N N N N N N N N
+NNNNN NNN NNN N N N N N NNN N NNNNN N N NNN N N N NNN N N N N
+N N   N     N N N N     N   N   N   N N   N N   N N   N   N N
+N N N N NNNNN N N NNNNN NNNNNNN N NNN NNN N NNNNN N N NNNNN N
+N N N   N     N N   N   N   N   N     N     N     N N       N
+N N NNNNN NNNNNNNNN N NNN N NNNNNNN NNNNNNNNNNNNNNN N NNNNNNN
+N         N         N     N         N         N   N N   N   N
+NNNNNNNNNNN NNNNNNNNNNN NNNNNNN NNNNN NNNNNNN N N N NNNNN N N
+N           N     N   N N N   N N   N N N       N N N   N N N
+N N NNNNNNN N NNN N N N N N N N N NNN N N NNNNNNNNN N N N N N
+N N     N   N N N N N   N   N   N     N N     N   N   N N N N
+N NNNNN NNNNN N N N NNNNNNNNNNNNN N NNN NNN NNN N NNNNN N N N
+N     N       N   N               N       N     N     N   N S
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
